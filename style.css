@@ -1,0 +1,37 @@
+body{
+    color: #000000;
+    line-height:1.7em;
+    font-weight:400;
+    background: #ffffff;
+    margin: 70px;
+}
+
+.heading{
+    font-family: Trebuchet MS, sans-serif;
+    font-size: 30px;
+}
+
+p{
+    font-family: Tahoma, sans-serif;
+}
+
+.list{
+    font-family: Trebuchet MS, sans-serif;
+    font-size: 22px;
+}
+
+#jump{
+    font-family: Dialog, serif;
+    font-size: 20px;
+
+}
+
+h1{
+    font-family: Trebuchet MS, sans-serif;
+    font-style: italic;
+    font-size: 41px;
+}
+
+a{
+    text-decoration: none;
+}
