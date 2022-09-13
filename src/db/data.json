@@ -1,0 +1,34 @@
+[
+    {
+        "question" : "What is the name Facebook officially changed to?",
+        "answer" : "3",
+        "a1": "BookFace",
+        "a2": "Washbasin",
+        "a3": "Meta",
+        "a4": "Mata"
+    },
+    {
+        "question" : "Which is the correct meaning for SEM relate to the metaverse?'",
+        "answer" : "2",
+        "a1": "Standard Electronic Modules",
+        "a2": "Search Engine Marketing",
+        "a3": "Scanning Electron Microscope",
+        "a4": "Standard Error of Mean"
+    },
+    {
+        "question" : "What amount of global retail e-commerce sales have risen to approximately  trillion in 2021",
+        "answer" : "1",
+        "a1": "US$4.9 trillion",
+        "a2": "US$4.9 billion",
+        "a3": "US$4.9 million",
+        "a4": "US$4.9 thousand"
+    },
+    {
+        "question" : "Which is NOT an application for future metaverse?",
+        "answer" : "3",
+        "a1": "Involve the consumer",
+        "a2": "Collaborate with other platforms",
+        "a3": "Disappear",
+        "a4": "Build up a metaverse themselves"
+    }
+]
