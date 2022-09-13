@@ -39,9 +39,13 @@ h1{
     font-style: italic;
     font-size: 40px;
 }
+h3{
+    margin-left: 27%;
+    font-size: 30px;
+}
 a{
     color: orangered;
-    font-size: 25px;
+    font-size: 23px;
     font-family: Tahoma, fangsong;
     text-decoration: none;
 }
