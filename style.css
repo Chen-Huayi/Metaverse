@@ -103,7 +103,7 @@ body {
     margin: 0;
     padding: 0;
     background: #000;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 25px;
     color: #000000;
 }
@@ -140,8 +140,8 @@ ul, ol {
 
 a {
     text-decoration: none;
-    font-size: 20px;
-    color: #232323;
+    font-size: 25px;
+    color: #df2525;
 }
 
 a:hover {
@@ -361,7 +361,7 @@ img.aligncenter {
     border: none;
     color: #065fab;
     font-size: 42px;
-    font-family: Calibri, cursive;
+    font-family: Arvo, cursive;
 
 }
 
